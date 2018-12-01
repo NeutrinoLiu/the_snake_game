@@ -6,4 +6,4 @@ a FPGA snake game implement for DE2 board
 * with pins.tcl as the pins restriction file.
 * build and download to the DE2 board
 # demo
-a demo can be viewed at [here](http://share.sqrtwo.com/demo snake.html)
+a demo can be viewed at [here](http://share.sqrtwo.com/demo_snake.html).
